@@ -1,5 +1,7 @@
 Here's a little explanation about the program.
 
+0. Dont forget to edit in your API KEY.
+
 1. When opening it will ask for a place, it will only accept valid cities and it's not case sensitive.
 
 2. After inserting a valid city it will direct you to the weather for the day nothing special there.
@@ -19,3 +21,4 @@ the disaster probability in the city you're currently tracking, if the chance ev
 6. The las button you can see is just to change between dark and light modes.
 
 Enjoy! Preferably in dark mode, the light mode is kinda ugly.
+
